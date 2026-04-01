@@ -6,6 +6,11 @@
       "date": "2026-03-18"
     },
     {
+      "hwid": "96653d9f491d12ab4b795785c1fae335fd987a91ee91c99fee93f2e62b5b07fe",
+      "reason": "Failure to comply with server rules",
+      "date": "2026-04-01"
+    },
+    {
       "hwid": "4c8ad079c815ca88d4f2ec382e94e33c9999cb025cc0fea96d1f0b79865e1e9dd2f1acbb683437d1ec95974bcdbd90c801e4fa3a780f3ce071ce26988026cd5a",
       "reason": "Try script deobfuscation",
       "date": "2026-03-28"
